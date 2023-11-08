@@ -1,0 +1,18 @@
+portada
+
+Universidad Doctor Andres Bello
+
+Asignatura: Programacion Orientada a Objetos 
+
+Segundo Parcial
+
+ Creación de un Proyecto de Django y Modelo de Productos
+
+Integrantes del grupo:
+-Alicia Estefany Guzman Lopez
+-Franklin Geovany Gomez Valle
+-Jesus Rodrigo Landaverde Alvarado
+-Jose Nicolas Abrego Salguero
+-Kevin Francisco Menjivar Calderon
+-Mauricio Imanol Garcia Romero
+-Norlin Alexander Moreno Calderon
